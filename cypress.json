@@ -1,0 +1,10 @@
+{
+  "componentFolder": "./",
+  "testFiles": ["components/**/*.spec.ts", "pages/**/*.spec.ts", "layouts/**/*.spec.ts"],
+  "video":  false,
+  "videoUploadOnPasses": false,
+  "fixturesFolder": false,
+  "defaultCommandTimeout":  3000,
+  "viewportWidth": 1680,
+  "viewportHeight": 1050
+}
